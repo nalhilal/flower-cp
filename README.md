@@ -1,7 +1,4 @@
 # flower-cp
- A prototype for classifying 5 types of flowers
+ A webapp prototype using machine learning for classifying 5 types of flowers.
 
-Requirements:
-
-- fastbook : https://github.com/fastai/fastbook
-- fastai : https://github.com/fastai/fastai
+Requirements: in requirements.txt
