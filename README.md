@@ -3,5 +3,5 @@
 
 Requirements:
 
-fastbook : https://github.com/fastai/fastbook
-fastai : https://github.com/fastai/fastai
+- fastbook : https://github.com/fastai/fastbook
+- fastai : https://github.com/fastai/fastai
