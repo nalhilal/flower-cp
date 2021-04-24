@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True Flower-CP-Main.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True --debug Flower-CP-Main.ipynb
